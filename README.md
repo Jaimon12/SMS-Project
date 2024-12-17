@@ -1,5 +1,3 @@
-"# SMS-Project" 
-
 School Management System (SMS)
 This project is a School Management System (SMS) built using Django. It incorporates role-based access control (RBAC) to manage users and provide functionality tailored to different roles: Admin, Office Staff, and Librarian. The system allows CRUD operations for managing student details, library history, and fees history.
 
